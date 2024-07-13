@@ -1,0 +1,8 @@
+cradle:
+  cabal:
+    - path: "./src"
+      component: "lib:ako-diagrams"
+    - path: "./test"
+      component: "test:ako-diagrams-tests"
+    - path: "./app"
+      component: "exe:ako-diagrams"
