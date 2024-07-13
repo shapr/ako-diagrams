@@ -56,7 +56,7 @@ What about four dimensional shapes? (I bet Schläfli and Coxeter know, but I don
   ![cube](cube.svg?raw=true)
 - [ ] dodecahedron
   halfway, just need to rotate and compose a copy of the first half
-  ![dodecahedron](dodeca.svg?raw=true)
+  ![dodecahedron](dodeca-half.svg?raw=true)
 - [ ] icosahedron
   progress, need to compose a few more tetrahedrons
   ![icosahedron](icosa.svg?raw=true)
