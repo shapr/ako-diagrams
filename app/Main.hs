@@ -35,4 +35,4 @@ halfdodeca = appends (p # rotateBy (1 / 10)) (zip (iterateN 5 (rotateBy (1 / 5))
   where
     p = regPoly 5 1 # rotateBy (3 / 20)
 
-main = mainWith $ halfdodeca # showOrigin
+main = mainWith $ icosa # showOrigin
